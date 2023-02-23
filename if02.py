@@ -1,6 +1,6 @@
 def main(a):
     """
-    If the number is positive, increase it to 1, else decrease it to 2.
+    If the number is positive, increase it to 1,otherwise decrease it to 2.
     Args:
         a: integer
     Returns:
