@@ -1,6 +1,6 @@
 def main(a,b,c):
     """
-    Find how many negative numbers there are in the given numbers.
+    Find number of negative numbers there are in the given numbers.
     Args:
         a: integer
         b: integer
