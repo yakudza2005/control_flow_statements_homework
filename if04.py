@@ -1,6 +1,6 @@
 def main(a,b,c):
     """
-    Find how many positive numbers there are in the given numbers.
+    Find number of positive numbers there are in the given numbers.
     Args:
         a: integer
         b: integer
